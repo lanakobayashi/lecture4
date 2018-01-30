@@ -1,3 +1,5 @@
 This is text file 2. 
 
 hello
+
+Edit 2: branch 1
